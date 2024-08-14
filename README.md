@@ -1,3 +1,3 @@
-## Telegram Mini App написан на Vue/TypeScript
+## Telegram Mini App написан на Vue
 ### Специально для @allivve
 ### Тематика: Калькулятор
